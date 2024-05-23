@@ -6,7 +6,7 @@ const taskRoutes = require('./routes/taskRoutes');
 
 require('dotenv').config();
 require('./db');
-const PORT = 8000;
+const PORT = process.env.PORT || 8000;
 
 app.use(bodyParser.json());
 app.use('/users', userRoutes);
