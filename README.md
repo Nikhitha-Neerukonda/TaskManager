@@ -83,7 +83,7 @@ After starting the server, you can use tools like Postman to interact with the A
     {
       "name": "Neerukonda Lakshmi Nikhitha",
       "email": "2002lakshminikhitha@gmail.com",
-      "password": "password"
+      "password": "neerukonda@123"
     }
     ```
 
@@ -93,8 +93,7 @@ After starting the server, you can use tools like Postman to interact with the A
     {
       "user": {
         "name": "Neerukonda Lakshmi Nikhitha",
-        "email": "2002lakshminikhitha@gmail.com",
-        "password: "password",
+        "email": "2002lakshminikhitha@gmail.com"
         "_id": "5f50c31f9e7b5c1a3c8d1f00",
         "createdAt": "2024-05-24T08:00:00.000Z",
         "updatedAt": "2024-05-24T08:00:00.000Z"
