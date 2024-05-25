@@ -11,7 +11,7 @@ This is a Task Manager API built with Node.js, Express.js, and MongoDB. The API 
 - [API Endpoints](#api-endpoints)
   - [User Routes](#user-routes)
   - [Task Routes](#task-routes)
-
+- [Test Cases](#test-cases)
 ## Features
 
 - User registration and authentication using JWT.
@@ -265,5 +265,12 @@ All task routes require a valid JWT token provided in the `Authorization` header
       "message": "Task Deleted Successfully"
     }
     ```
+## test-cases
+
+To run the tests, use the following command:
+
+```bash
+npm test
+
 
 
